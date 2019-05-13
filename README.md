@@ -1,4 +1,4 @@
 # hello-world
 
 
-<div><b>Hello World!</b></div><div>Aidana</div>
+Hello my name is Aidana and i am from Taraz city! =)
